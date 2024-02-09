@@ -1,1 +1,1 @@
-# laptop-price-prediction
+# laptop-price-prediction-web-app
